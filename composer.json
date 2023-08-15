@@ -1,9 +1,9 @@
 {
-    "name": "eimg/project",
+    "name": "crud/php",
     "authors": [
         {
-            "name": "Ei Maung",
-            "email": "eimg@fairwayweb.com"
+            "name": "Shine D Sun",
+            "email": "shine.d.sun.personal@gmail.com"
         }
     ],
     "require": {
