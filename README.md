@@ -33,6 +33,12 @@ This project employs the following technologies:
 - **PHP**: Server-side scripting language used for handling logic and communication with the database.
 - **MySQL**: A relational database management system used for storing and managing application data.
 
+## License
+
+This repository is licensed under the MIT License. You are free to use the code for your personal and educational purposes. If you use this repository or its code in your projects, attribution is appreciated but not required.
+
+Happy coding and building full stack CRUD applications using Bootstrap, Pure PHP, and MySQL!
+
 ## Setup
 
 To set up and run this project on your local machine, follow these steps:
