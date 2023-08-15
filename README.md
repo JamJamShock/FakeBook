@@ -1,4 +1,4 @@
-# Full Stack CURD PHP application
+# Full Stack CRUD PHP application
 
 This is a repository for a Full Stack Application using Bootstrap, PHP & MongoDB.
 
